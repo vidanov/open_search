@@ -1,0 +1,13 @@
+time="2025-02-01T18:34:49+01:00" level=warning msg="/Users/alexeyvidanov/LABS/opensearch/part2-local-setup/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Container opensearch-node1  Recreate
+ Container opensearch-dashboards  Recreate
+ Container opensearch-node2  Recreate
+ Container opensearch-node1  Recreated
+ Container opensearch-node2  Recreated
+ Container opensearch-dashboards  Recreated
+ Container opensearch-node1  Starting
+ Container opensearch-node2  Starting
+ Container opensearch-dashboards  Starting
+ Container opensearch-node2  Started
+ Container opensearch-node1  Started
+ Container opensearch-dashboards  Started
